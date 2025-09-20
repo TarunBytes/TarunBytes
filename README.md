@@ -1,6 +1,6 @@
 <img src="assets/line-neon.gif" width="100%">
-<br><br>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" style="margin-top: 2px;"/>
+<br>
+<img src="assets/Hand%20Wave.gif" width='40' align="left" style="margin-top: 10px;"/>
 <h1>Hey there! I'm Tarun | India 🇮🇳</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -21,7 +21,7 @@ Passionate Software Engineer & Backend Developer with 3.5+ years of experience b
 
 ### 🛠️ Tech Stack
 
-<img alt="Night Coding" src="assets/Night-Coding.gif" align="right" width="500"/>
+<img src="assets/coding.gif" align="right" width="439">
 
 <table style="border:none;">
   <tr tyle="border:none;">
