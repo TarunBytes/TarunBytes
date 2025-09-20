@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Passionate Software Engineer & Backend Developer with 3.5+ years of experience building scalable, robust applications.
+Passionate Software Engineer with 3.5+ years of experience building scalable, robust applications.
 
 - 🔭 Building great things
 - 🌱 Lifelong learner
