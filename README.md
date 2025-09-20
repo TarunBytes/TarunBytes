@@ -1,7 +1,8 @@
-<img src="assets/line-neon.gif" width="100%">
-<br>
-<img src="assets/Hand%20Wave.gif" width='40' align="left" style="margin-top: 10px;"/>
-<h1>Hey there! I'm Tarun | India 🇮🇳</h1>
+<img src="assets/line-neon.gif" width="100%"><br>
+
+# <img src="assets/Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Tarun | India 🇮🇳
+
+<p><img height="250px" width="350px" align="right" src="assets/coding.gif" alt="adam-pw" /></p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -15,13 +16,14 @@ Passionate Software Engineer & Backend Developer with 3.5+ years of experience b
 
 💡 *“Driven by curiosity, I love solving complex problems and staying ahead of industry trends.”*
 
+
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<img src="assets/coding.gif" align="right" width="439">
+<img src="assets/night.gif" align="right" width="439">
 
 <table style="border:none;">
   <tr tyle="border:none;">
