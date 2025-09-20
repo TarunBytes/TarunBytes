@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarun Verma
 
-<!--
-**TarunBytes/TarunBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Backend Developer**
 
-Here are some ideas to get you started:
+I am a passionate **Software Engineer** with **3.5+ years of experience** in designing and developing scalable applications.  
+I love building robust RESTful APIs, crafting clean and responsive user interfaces, and creating seamless integrations for applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** [mc034tarun@gmail.com](mailto:mc034tarun@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/im-tarun-verma](http://linkedin.com/in/im-tarun-verma)
+
+![Profile views](https://komarev.com/ghpvc/?username=<your-github-username>&color=blue)
+
+---
+
+💡 *“Driven by curiosity, I love solving complex problems and staying ahead of industry trends.”*
