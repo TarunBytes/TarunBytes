@@ -23,7 +23,7 @@ Passionate Software Engineer & Backend Developer with 3.5+ years of experience b
 
 ### 🛠️ Tech Stack
 
-<img src="assets/night.gif" align="right" width="439">
+<img src="assets/night.gif" align="right" width="350">
 
 <table style="border:none;">
   <tr tyle="border:none;">
