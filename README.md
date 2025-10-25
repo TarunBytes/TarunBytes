@@ -1,6 +1,6 @@
 <img src="assets/line-neon.gif" width="100%"><br>
 
-# <img src="assets/Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Tarun | India 🇮🇳
+# <img src="assets/Hand%20Wave.gif" width='40' align="left"/> Hey there! I'm Tarun
 
 <p><img height="250px" width="350px" align="right" src="assets/coding.gif" alt="adam-pw" /></p>
 
